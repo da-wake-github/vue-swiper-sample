@@ -5,6 +5,7 @@
 - [はじめに | Vite](https://ja.vitejs.dev/guide/)
 - [Swiper Vue.js Components](https://swiperjs.com/vue)
 - [[Vue3 + Swiper8] 独自デザインのナビゲーションとページネーションを実装する - Qiita](https://qiita.com/sygnas/items/d254fe52472ece1d1626)
+- [vite/vuejsでビルド後のindex.htmlで相対パスで利用できるようにする | masayanblog](https://maasaablog.com/development/frontend/javascript/vue/5068/)
 
 <!-- 
 # Vue 3 + Vite
