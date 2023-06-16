@@ -33,8 +33,8 @@ const onSlideChange = () => {
 </template>
 
 <style scoped>
-.swiper-button-next,
-.swiper-button-prev {
+.swiper >>> .swiper-button-next,
+.swiper >>> .swiper-button-prev {
   z-index: 11;
 }
 </style>

@@ -6,5 +6,5 @@ import Slider from './components/Slider.vue'
   <Slider />
 </template>
 
-<style scoped>
+<style>
 </style>
